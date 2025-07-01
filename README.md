@@ -1,6 +1,4 @@
-Great! Here's an updated **README** to reflect that you've included both the **report** and **screenshots** in your GitHub repository:
 
----
 
 # Task 6: Create a Strong Password and Evaluate Its Strength
 
