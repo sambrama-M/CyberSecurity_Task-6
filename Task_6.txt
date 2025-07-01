@@ -1,0 +1,111 @@
+                                                          Task 6:Create a strong password and evaluate its strength
+
+
+objective    : Understand  what makes a password strong and test it againist password strength tools.
+Tools        : Online free password strength checker
+Deliverables : Report showing password strength results and explanation.
+
+
+
+* So inorder to check the password strength i googled password strength checkers i found some of the 
+  offline free tools among those i have choose one perticular website known as "PasswordMonster".
+
+* In next step i inserted password and it used to recommand and direct how my password should be inorder to increase the strength.
+* after entering the password in a text layout it also gave information that how many long days it take's to crack the password by any hacker or anyone 
+  who want to crack into my system or any of my important site's.
+* I have performed variety of password and entered to the website to check the strength:
+  A strong password contains Lowwercase(a-z) and Uppercase alphabets(A-Z) , Numbers(0-1), and also include certain special charecters inorder to increase 
+  the complexity to crack the password.
+
+
+--> Some of the password performed to check strength are as follows:
+
+          How Secure is Your Password?
+
+          Tip: Stronger passwords use different types of charactersShow password: 
+      (i)                        Ge21!r3A)t
+       * feed back : Very Strong
+       Symbols Numbers Upper case Lower case
+       10 characters containing:
+
+Time to crack your password:
+18 centuries
+Review: Fantastic, using that password makes you as secure as Fort Knox.
+
+* performed various variety of password and understood how regularly changing of password helps reducing threat's in the future.
+
+
+
+---> BEST PRACTICES OF CREATING A STRONG PASSWORD:
+
+1.Regularly update the password once a month.
+2.Use combination of alphabets uppercase - Lowercase, Numbers and also include symbols.
+3.Do not use common password for all sites use different password for different platforms.
+4.Do not share password fo anyone keep it private.
+5.Before entering any username or password to any website make sure those website are genuine which contains the protocol of https://"   ".
+
+
+--->COMMON PASSWORD ATTACKS:
+
+1. Brute Force Attack:
+                     * The attacker tries all possible combinations of characters until the correct password is found.
+                     
+                     * Time-consuming but effective if password is weak and short.
+
+2. Dictionary Attack
+                    * Uses a predefined list of likely passwords, such as words from a dictionary.
+
+                    * Faster than brute force; targets users who use common or simple passwords (like "password123").
+
+3. Credential Stuffing
+				   *	 Attackers use previously leaked usernames and passwords from data breaches.
+
+				   *	 Exploits the habit of reusing passwords across websites.
+
+4. Phishing
+                    *  Users are tricked into entering their credentials on fake websites or emails.
+
+				   *	  Highly effective due to social engineering.
+
+5. Keylogging
+				   *	  Malware or hardware secretly records keystrokes to capture passwords as you type.
+
+                    *   Especially dangerous if systems are infected without detection.
+
+6. Man-in-the-Middle (MITM) Attack
+                    *   Attackers intercept data during transmission, often on unsecured networks.
+
+                    *   If passwords are sent in plaintext, they can be easily captured.
+
+7. Rainbow Table Attack
+                    *   Uses a precomputed table of hash values to reverse cryptographic password hashes.
+
+                    *   Mitigated by using salts (random data added before hashing).
+
+8. Shoulder Surfing
+                    *   Physically watching someone enter their password.
+
+                    *   Common in public places like cafes or airports.
+
+these are the commom password attacks.
+
+
+
+---> Summary: How Password Complexity Affects Security
+Password complexity directly increases security by making passwords harder to guess or crack using automated attacks.
+
+1. Length Matters:
+Longer passwords take exponentially more time to crack.
+
+Example: 12+ characters is far more secure than 6 characters.
+
+2. Character Variety Helps:
+Using uppercase, lowercase, numbers, and symbols makes brute-force and dictionary attacks much harder.
+
+3. Unpredictability Is Key:
+Avoiding common words, patterns, or personal info reduces risk from dictionary and social engineering attacks.
+
+4. Resistance to Automation:
+Complex passwords resist automated tools used in brute-force, rainbow table, and credential stuffing attacks.
+
+In short: The more complex your password (in length and variety), the harder it is for attackers to break it  keeping your accounts safer.
